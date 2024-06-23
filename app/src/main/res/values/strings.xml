@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="yournote">Напишите здесь заметку</string>
+    <string name="name_zm">Name</string>
+    <string name="nextTip">Другая заметка</string>
+    <string name="last_page">Это последняя страница!</string>
+    <string name="Text3">Это последняя страница</string>
+</resources>

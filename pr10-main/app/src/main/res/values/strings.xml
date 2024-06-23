@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="vvod_zametki">Напишите здесь заметку</string>
+    <string name="name_zm">Name</string>
+    <string name="another_zam">Другая заметка</string>
+    <string name="last_page">Это последняя страница!</string>
+    <string name="Text3">\n</string>
+</resources>
